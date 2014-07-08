@@ -2,7 +2,7 @@
 
 Get GitHub's syntax highlighting / colours and fonts within PHPStorm.
 
-[![Screenshot](screenshot.png)]
+![Screenshot](screenshot.png)
 
 ### Installation on Windows (PHPStorm 7)
 
