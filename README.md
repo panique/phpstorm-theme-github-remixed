@@ -1,6 +1,7 @@
 #phpstorm-theme-github-remixed
 
-Get GitHub's syntax highlighting / colours and fonts within PHPStorm.
+Get GitHub's syntax highlighting / colors and fonts within PHPStorm. In this theme I tried to be as close as possible
+on the original colours, but switching the red comments (seriously GitHub, RED? :)) to a decent grey.
 This is an experimental repo, not sure if this looks like it should look everywhere on every platform.
 
 ![Screenshot](screenshot.png)
