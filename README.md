@@ -8,16 +8,18 @@ This is an experimental repo, not sure if this looks like it should look everywh
 
 ![Screenshot](screenshot.png)
 
-### Installation on Windows (PHPStorm 7)
+### Installation on Windows (PHPStorm 7/8/9/10)
 
 Close PHPStorm if open.
 Go to `C:\Users\XXXXXX\.WebIde70\config\colors` and place the .icls file there.
 Open PHPStorm, go to *View -> Quick Switch Theme -> Switch Color Scheme* and select *GitHub Remixed*.
 
-### Installation on Mac OS (PHPStorm 7)
+### Installation on Mac OS (PHPStorm 7/8/9/10)
 
 Same as above, but path is `~/Library/Preferences/WebIde70/colors/`.
 
-### Installation on Linux (PHPStorm 7)
+### Installation on Linux (PHPStorm 7/8/9/10)
 
 Same as above, but path is `~/Library/Preferences/WebIde70/colors`.
+
+Please note that the folder name will be .WedIde70 if you use PHPStorm 7, .WebIde100 if you use PHPStorm 10 etc.! If you cannot see the new theme then please go to Settings > Editor > Colors & Fonts and try to save the current theme, which will make PHPStorm create a new file like `Default copy.icls` inside the theme folder. Don't know why, but somehow this triggers a rescan of the the theme folder, usually fixing any "theme not found" issues.
