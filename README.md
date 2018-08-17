@@ -24,4 +24,4 @@ Same as above, but path is `~/Library/Preferences/WebIde70/colors`.
 
 ### Problems ?
 
-Please note that the folder name will be .WedIde70 if you use PHPStorm 7, .WebIde100 if you use PHPStorm 10 etc.! If you cannot see the new theme then please go to Settings > Editor > Colors & Fonts and try to save the current theme, which will make PHPStorm create a new file like `Default copy.icls` inside the theme folder. Don't know why, but somehow this triggers a rescan of the the theme folder, usually fixing any "theme not found" issues.
+Please note that the folder name will be .WedIde70 if you use PHPStorm 7, .WebIde100 if you use PHPStorm 10 etc.! If you cannot see the new theme then please go to Settings > Editor > Colors & Fonts and try to save the current theme, which will make PHPStorm create a new file like `Default copy.icls` inside the theme folder. Don't know why, but somehow this triggers a rescan of the theme folder, usually fixing any "theme not found" issues.
